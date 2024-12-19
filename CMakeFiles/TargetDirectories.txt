@@ -1,0 +1,5 @@
+C:/Users/39347/Desktop/Cfast-application-beta/CMakeFiles/Cfast-application-beta.dir
+C:/Users/39347/Desktop/Cfast-application-beta/CMakeFiles/edit_cache.dir
+C:/Users/39347/Desktop/Cfast-application-beta/CMakeFiles/rebuild_cache.dir
+C:/Users/39347/Desktop/Cfast-application-beta/CMakeFiles/Cfast-application-beta_autogen_timestamp_deps.dir
+C:/Users/39347/Desktop/Cfast-application-beta/CMakeFiles/Cfast-application-beta_autogen.dir
