@@ -18,7 +18,10 @@ C-Fast Formatter is an open-source application designed to streamline data handl
 - Developed entirely using Qt.
 - This application is intended solely for non-commercial use.
 
----
+## Contribution
+This project is open for contributions. Feel free to submit pull requests to improve performance, fix issues, or add features.
 
-**Note**: If you encounter issues or have suggestions, feel free to contribute or raise an issue on the project's repository.
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 
